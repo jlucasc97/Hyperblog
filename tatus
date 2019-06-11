@@ -1,0 +1,94 @@
+[33mcommit 73b5e50b99e9c477e1da04e85a4bc792124a7fe2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jlucas97 <51684175+jlucas97@users.noreply.github.com>
+Date:   Tue Jun 11 01:19:12 2019 -0600
+
+    Cambié el título del blogpost
+    
+    Porque puedo
+
+[33mcommit 88dbf3cf4d8a312c8f8d0cef2eda00fdf77e12cf[m
+Merge: 5f6c101 f7f6dd6
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 21:48:29 2019 -0600
+
+    Merge branch 'master' of https://github.com/jlucas97/Hyperblog
+
+[33mcommit 5f6c10188c4b441b82e1827c10800023f0beda7e[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 21:47:19 2019 -0600
+
+    Cambios pendientes de hacer commit en CSS
+
+[33mcommit f7f6dd6c48576ed256a3c3cf363acd7485c27ffa[m
+Author: jlucas97 <51684175+jlucas97@users.noreply.github.com>
+Date:   Mon Jun 10 18:21:23 2019 -0600
+
+    Initial commit
+
+[33mcommit 198fbd1555e1b6c275332e86c07fa836690d891d[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 02:03:35 2019 -0600
+
+    Solución conflicto de ramas
+
+[33mcommit cb9242a9d0fb1cd2693da42f3224e690e8ac3bb7[m
+Merge: c2101d0 b4fa289
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 02:02:04 2019 -0600
+
+    Solución conflicto de ramas
+
+[33mcommit c2101d0653ef4c2eafa41f9a36e87082484d304c[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 01:47:14 2019 -0600
+
+    Agregué suscripción y cambie la cabecera y color
+
+[33mcommit b4fa289fd64abb14769711414e70a8682a3936a3[m[33m ([m[1;32mcabecera[m[33m)[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 01:45:10 2019 -0600
+
+    Modifiqué la cabecera y el color del texto
+
+[33mcommit 19b480c1eb5c7d56945939de69c1239a0c01045c[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 00:47:55 2019 -0600
+
+    Volví a una tipografía menos controversial
+
+[33mcommit 89e4ff70cfb136055ebe917c802918f4b27391c6[m
+Merge: 7d08a5b 2173bc2
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 00:44:46 2019 -0600
+
+    Hotfix para el merge
+
+[33mcommit 7d08a5b657766d91c4fb9b8112622bbd358f6f24[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 00:35:21 2019 -0600
+
+    Agregado el contenido adicional del blog y un cambio de tipografía
+
+[33mcommit 2173bc248fe96f6423ac3d0597ea25a4367c3ceb[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 00:28:15 2019 -0600
+
+    Finalizada la cabecera con diseño azul
+
+[33mcommit ec84288ec95e62d436fa52ac544e3e6af4ebe5bf[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Mon Jun 10 00:02:02 2019 -0600
+
+    Estructura inicial de la cabecera
+
+[33mcommit 98be4b36c7a4a58b71f7ae55d9933f3f75ce0294[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Sun Jun 9 23:50:05 2019 -0600
+
+    Commit al master del blogpost en su versión más reciente
+
+[33mcommit a243c694de693eb15a45ec32b05148aeda6c82f2[m
+Author: Lucas <jeanlucascastillo@hotmail.com>
+Date:   Sun Jun 9 22:59:27 2019 -0600
+
+    Primer cambio
